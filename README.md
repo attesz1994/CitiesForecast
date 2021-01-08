@@ -4,6 +4,12 @@ Hello!
 This is a NodeJS project written in Nest framework using Typescript.
 I have used Postman to send requests, Redis for caching and MongoDB Atlas for storage.
 
+Swagger URL:
+http://localhost:4000/api/
+
+Websocket client URL:
+http://localhost:4000/
+
 ## Installation
 
 ```bash
